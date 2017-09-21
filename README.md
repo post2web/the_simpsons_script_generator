@@ -1,7 +1,7 @@
 # the_simpsons_script_generator
 ## An automatic TV-script generator for The Simpsons.
 
-In this project I am generating The Simpsons TV script using a recurent neural network. 
+In this project I am generating The Simpsons TV script using a recurrent neural network. 
 I train the network using an existing TV script and then use it to generate an original peace of writing.
 
 
